@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+img{
+    width:650px;
+    height:300px;
+    border:3px solid whitesmoke;
+}
+
+h1{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-block-end: 10px;
+}
+
+div{
+    margin: 40px 280px 0px 280px;
+}
+p{
+    text-align: center;
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
